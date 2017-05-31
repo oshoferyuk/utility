@@ -5,6 +5,6 @@ beforeModel() {
     this.transitionTo('org.ultra');
   }
   model(){
-	  
+	  console.log('model');
   }
 });
