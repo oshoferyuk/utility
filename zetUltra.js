@@ -1,4 +1,4 @@
-//import Ember from 'ember';
+//import Ember from 'ember'; and more
 
 export default Ember.Route.extend({
 beforeModel() {
