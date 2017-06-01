@@ -1,3 +1,4 @@
+2222222
 99=== import Ember from 'ember'; mmm99
 
 export default Ember.Route.extend({
